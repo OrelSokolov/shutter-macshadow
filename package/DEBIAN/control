@@ -1,0 +1,9 @@
+Package: shutter-macshadow
+Version: 1.0.0
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Oleg Orlov <orelcokolov@gmail.com>
+Description: Shutter Macshadow plugin
+  Macshadow is just fixed shshadow plugin. Now you are able to create screenshots in OSX style.
+
